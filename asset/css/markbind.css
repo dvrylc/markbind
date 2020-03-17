@@ -441,3 +441,69 @@ pre {
 .copy-btn:focus {
     outline: none;
 }
+
+/* Octicon sizing */
+.fa-lg .octicon {
+    height: 22px;
+    width: 22px;
+}
+
+.fa-xs .octicon {
+    height: 12px;
+    width: 13px;
+}
+
+.fa-sm .octicon {
+    height: 14px;
+    width: 14px;
+}
+
+.fa-1x .octicon {
+    height: 18px;
+    width: 18px;
+}
+
+.fa-2x .octicon {
+    height: 32px;
+    width: 32px;
+}
+
+.fa-3x .octicon {
+    height: 48px;
+    width: 48px;
+}
+
+.fa-4x .octicon {
+    height: 64px;
+    width: 64px;
+}
+
+.fa-5x .octicon {
+    height: 80px;
+    width: 80px;
+}
+
+.fa-6x .octicon {
+    height: 96px;
+    width: 96px;
+}
+
+.fa-7x .octicon {
+    height: 112px;
+    width: 112px;
+}
+
+.fa-8x .octicon {
+    height: 128px;
+    width: 128px;
+}
+
+.fa-9x .octicon {
+    height: 144px;
+    width: 144px;
+}
+
+.fa-10x .octicon {
+    height: 160px;
+    width: 160px;
+}
